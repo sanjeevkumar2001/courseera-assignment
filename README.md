@@ -1,2 +1,2 @@
 # courseera-assignment
-courseera assignment repositry
+course
