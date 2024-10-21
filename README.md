@@ -1,2 +1,4 @@
 # courseera-assignment
-course
+courseeraq
+"AUTHOR: SANJEEVKUMAR"
+
